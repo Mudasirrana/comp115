@@ -2,7 +2,7 @@
 Lab 4 - Functions and Lists 
 (100 marks in total, including 7 exercises)
 
-Author:  <your name>
+Author:  Mudasir afzal
 Due Date: This Friday (Feb. 2) 11am.
 
 Objective:
