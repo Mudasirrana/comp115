@@ -9,7 +9,7 @@ Note: 1. Please do not change the function definition.
       2. You can see the lab3 result demo here: https://comp115-bravo.github.io/lab3_demo.html
       3. Upload your lab3 to your GitHub's repository when you finish, similar to lab1 and lab2.
 
-Author:  <your name>
+Author:  Mudasir afzal
 Due Date: This Friday (Jan. 26) 11am.
     
 """
